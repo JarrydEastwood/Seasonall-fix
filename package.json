@@ -10,11 +10,12 @@
     "export": "next build && next export"
   },
   "engines": {
-    "node" : ">=16.0.0 <17.0.0"
+    "node": ">=16.0.0 <17.0.0"
   },
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.15.1",
     "animejs": "^3.2.1",
+    "netlify": "^13.1.10",
     "next": "10.0.1",
     "react": "17.0.1",
     "react-dom": "17.0.1"
@@ -28,4 +29,3 @@
     "tailwindcss": "^1.9.6"
   }
 }
-
