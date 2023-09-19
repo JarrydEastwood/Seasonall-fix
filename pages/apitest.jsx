@@ -22,28 +22,6 @@ const apiPage = () => {
     
   return(
     <>
-    {/* <div className="w-screen mx-auto my-4">
-      <h1 className="text-xl">test page for API Data</h1>
-
-      <h4>Click a button to test the GeoLocation API</h4> 
-      <button onClick={() => getData("New York")}
-      className="bg-pink-500 hover:bg-pink-400 text-white font-bold py-2 my-4 mx-4 px-4 border-b-4 border-pink-700 hover:border-pink-500 rounded">
-      New York
-      </button>
-
-      <button onClick={() => getData("Los Angeles")}      
-      className="bg-green-500 hover:bg-green-400 text-white font-bold py-2 my-4 mx-4 px-4 border-b-4 border-green-700 hover:border-green-500 rounded">
-      Los Angeles
-      </button>
-
-      <button onClick={() => getData("Memphis")}      
-      className="bg-blue-500 hover:bg-blue-400 text-white font-bold py-2 my-4 mx-4 px-4 border-b-4 border-blue-700 hover:border-blue-500 rounded">
-        Memphis
-      </button>
-    </div>
-
-  <div className="w-screen mx-auto my-4 justify-center">
-  */}
     
 {/* Geo Data API Call */}
 
